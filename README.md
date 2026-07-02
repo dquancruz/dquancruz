@@ -29,7 +29,7 @@ $ echo $UBICACION
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=angular,nodejs,express,mongodb,docker,git,github,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=angular,nodejs,express,mongodb,postgres,docker,aws,git,github,firebase&theme=dark" />
 </p>
 
 <br>
@@ -44,7 +44,7 @@ Buscador de estaciones de policía y bomberos en Ciudad de Guatemala, con mapa i
 ![Node.js](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
-📂 [Repositorio](https://github.com/dquancruz/Ubicasure)
+🔗 [Demo](https://ubicasure-43ef4.web.app/) &nbsp;·&nbsp; 📂 [Repositorio](https://github.com/dquancruz/Ubicasure)
 
 ---
 
@@ -58,13 +58,35 @@ Tienda en línea full-stack: catálogo por categorías, búsqueda, carrito de co
 
 📂 [Repositorio](https://github.com/dquancruz/OnlineSales)
 
+---
+
+### 🔹 Task Manager
+
+Sistema de gestión de tareas para uso empresarial interno: asignación por departamento, seguimiento de tiempo, historial y dashboards de desempeño para administradores.
+
+![Angular](https://img.shields.io/badge/Angular-333333?style=for-the-badge&logo=angular&logoColor=DD0031)
+![Node.js](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+
+🔗 [Demo](https://nexsolutions.space/login) &nbsp;·&nbsp; 📂 [Repositorio](https://github.com/dquancruz/Proyecto-Analisis)
+
+---
+
+### 🔹 Bowling
+
+Calculadora de puntaje de bowling con interfaz web, para llevar el conteo de una partida automáticamente.
+
+![Python](https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=3776AB)
+
+🔗 [Demo](https://bowling-production-57c1.up.railway.app/) &nbsp;·&nbsp; 📂 [Repositorio](https://github.com/dquancruz/bowling)
+
 <br>
 
 ## 📊 Stats de GitHub
 
 <p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=dquancruz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&border_radius=10" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dquancruz&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&border_radius=10" />
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=dquancruz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&border_radius=10" />
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dquancruz&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&border_radius=10" />
 </p>
 
 <p align="center">
@@ -80,10 +102,8 @@ Tienda en línea full-stack: catálogo por categorías, búsqueda, carrito de co
 <a href="https://portfolio-dq-cruz.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-BB9AF7?style=for-the-badge&logoColor=white" /></a>
 </p>
 
-<br>
+<!-- 👉 Si tenés Twitter/X, Instagram o email público, agregá más badges acá con el mismo formato de arriba -->
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=dquancruz&color=bb9af7&style=for-the-badge&label=Visitas" />
-</p>
+<br>
 
 <p align="center"><i>$ echo "Gracias por pasar por aquí" 👋</i></p>

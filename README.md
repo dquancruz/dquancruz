@@ -1,8 +1,8 @@
 <div align="center">
 
-# ¡Hola! Soy Daniel Quán 👋
+# Hi, I'm Daniel Quán 👋
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=7DCFFF&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;Angular%2C+Node.js+y+MongoDB;Basado+en+Guatemala;Construyendo+cosas+que+funcionan" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=7DCFFF&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;Angular%2C+Node.js+and+MongoDB;Based+in+Guatemala;Building+things+that+work" alt="Typing SVG" />
 
 </div>
 
@@ -12,17 +12,17 @@
 $ whoami
 > Daniel Quán — Full Stack Developer
 
-$ cat sobre_mi.txt
-> Full stack developer enfocado en Angular, Node.js y MongoDB.
-> Explorando también desarrollo mobile e inteligencia artificial.
+$ cat about_me.txt
+> Full stack developer focused on Angular, Node.js, and MongoDB.
+> Also exploring mobile development and artificial intelligence.
 
-$ echo $UBICACION
+$ echo $LOCATION
 > Guatemala 🇬🇹
 ```
 
 <br>
 
-## 🛠️ Stack técnico
+## 🛠️ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,py&theme=dark" />
@@ -34,55 +34,55 @@ $ echo $UBICACION
 
 <br>
 
-## 🚀 Proyectos destacados
+## 🚀 Featured Projects
 
 ### 🔹 Ubicasure
 
-Buscador de estaciones de policía y bomberos en Ciudad de Guatemala, con mapa interactivo y panel de administración para gestionar los datos.
+Police and fire station finder for Guatemala City, with an interactive map and an admin panel to manage the data.
 
 ![Angular](https://img.shields.io/badge/Angular-333333?style=for-the-badge&logo=angular&logoColor=DD0031)
 ![Node.js](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
-🔗 [Demo](https://ubicasure-43ef4.web.app/) &nbsp;·&nbsp; 📂 [Repositorio](https://github.com/dquancruz/Ubicasure)
+🔗 [Demo](https://ubicasure-43ef4.web.app/) &nbsp;·&nbsp; 📂 [Repository](https://github.com/dquancruz/Ubicasure)
 
 ---
 
 ### 🔹 VentaOnline
 
-Tienda en línea full-stack: catálogo por categorías, búsqueda, carrito de compra y panel de administración de productos y usuarios.
+Full-stack online store: category catalog, search, shopping cart, and an admin panel for products and users.
 
 ![Angular](https://img.shields.io/badge/Angular-333333?style=for-the-badge&logo=angular&logoColor=DD0031)
 ![Node.js](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
-📂 [Repositorio](https://github.com/dquancruz/OnlineSales)
+📂 [Repository](https://github.com/dquancruz/OnlineSales)
 
 ---
 
 ### 🔹 Task Manager
 
-Sistema de gestión de tareas para uso empresarial interno: asignación por departamento, seguimiento de tiempo, historial y dashboards de desempeño para administradores.
+Internal task management system for business use: department-based assignment, time tracking, history, and performance dashboards for admins.
 
 ![Angular](https://img.shields.io/badge/Angular-333333?style=for-the-badge&logo=angular&logoColor=DD0031)
 ![Node.js](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 
-🔗 [Demo](https://nexsolutions.space/login) &nbsp;·&nbsp; 📂 [Repositorio](https://github.com/dquancruz/Proyecto-Analisis)
+🔗 [Demo](https://nexsolutions.space/login) &nbsp;·&nbsp; 📂 [Repository](https://github.com/dquancruz/Proyecto-Analisis)
 
 ---
 
 ### 🔹 Bowling
 
-Calculadora de puntaje de bowling con interfaz web, para llevar el conteo de una partida automáticamente.
+Bowling score calculator with a web interface, to keep track of a game automatically.
 
 ![Python](https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=3776AB)
 
-🔗 [Demo](https://bowling-production-57c1.up.railway.app/) &nbsp;·&nbsp; 📂 [Repositorio](https://github.com/dquancruz/bowling)
+🔗 [Demo](https://bowling-production-57c1.up.railway.app/) &nbsp;·&nbsp; 📂 [Repository](https://github.com/dquancruz/bowling)
 
 <br>
 
-## 📊 Stats de GitHub
+## 📊 GitHub Stats
 
 <p align="center">
 <img height="180" src="https://github-stats-extended.vercel.app/api?username=dquancruz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&border_radius=10" />
@@ -95,15 +95,13 @@ Calculadora de puntaje de bowling con interfaz web, para llevar el conteo de una
 
 <br>
 
-## 🌐 Conectemos
+## 🌐 Let's Connect
 
 <p align="center">
 <a href="https://www.linkedin.com/in/daniel-quán-2bb237243"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://portfolio-dq-cruz.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-BB9AF7?style=for-the-badge&logoColor=white" /></a>
 </p>
 
-<!-- 👉 Si tenés Twitter/X, Instagram o email público, agregá más badges acá con el mismo formato de arriba -->
-
 <br>
 
-<p align="center"><i>$ echo "Gracias por pasar por aquí" 👋</i></p>
+<p align="center"><i>$ echo "Thanks for stopping by" 👋</i></p>
